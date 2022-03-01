@@ -1,0 +1,2 @@
+# variablesTask
+day 1
